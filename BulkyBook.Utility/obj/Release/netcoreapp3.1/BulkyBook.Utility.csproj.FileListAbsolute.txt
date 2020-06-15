@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.genruntimeconfig.cache

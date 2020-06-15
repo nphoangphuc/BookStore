@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\bin\Release\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook.DataAccess\obj\Release\netcoreapp3.1\BulkyBook.DataAccess.genruntimeconfig.cache
