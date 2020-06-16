@@ -14,7 +14,6 @@ namespace BulkyBook.DataAccess.Repository
 		public CategoryRepository(ApplicationDbContext db) : base(db)
 		{
 			_db = db;
-
 		}
 
 		public void Update(Category category)
@@ -23,9 +22,7 @@ namespace BulkyBook.DataAccess.Repository
 			if(objFromDb!=null)
 			{
 				objFromDb.Name = category.Name;
-				_db.SaveChanges();
 			}
-			throw new NotImplementedException();
 		}
 	}
 }
