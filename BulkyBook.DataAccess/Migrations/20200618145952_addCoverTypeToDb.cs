@@ -2,7 +2,7 @@
 
 namespace BulkyBook.DataAccess.Migrations
 {
-    public partial class AddCoverTypetoDatabase : Migration
+    public partial class addCoverTypeToDb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

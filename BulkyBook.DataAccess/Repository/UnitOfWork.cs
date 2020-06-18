@@ -1,6 +1,7 @@
 ﻿using BulkyBook.DataAccess.Data;
 using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
+using Castle.DynamicProxy.Generators;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,15 +12,12 @@ namespace BulkyBook.DataAccess.Repository
 	{
 		private readonly ApplicationDbContext _db;
 
-		public UnitOfWork()
-		{
-		}
-
 		public UnitOfWork(ApplicationDbContext db)
 		{
 			_db = db;
 			Category = new CategoryRepository(_db);
 			CoverType = new CoverTypeRepository(_db);
+			SP_Call = new SP_Call(_db);
 		}
 		public ICategoryRepository Category { get; private set; }
 		public ICoverTypeRepository CoverType { get; private set; }
