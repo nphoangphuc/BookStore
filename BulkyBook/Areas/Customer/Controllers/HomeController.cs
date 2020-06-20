@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using BulkyBook.Models;
 using BulkyBook.Models.ViewModel;
+using BulkyBook.DataAccess.Repository.IRepository;
 
 namespace BulkyBook.Areas.Customer.Controllers
 {
@@ -14,10 +15,12 @@ namespace BulkyBook.Areas.Customer.Controllers
 	public class HomeController : Controller
 	{
 		private readonly ILogger<HomeController> _logger;
+		private readonly IUnitOfWork _unitOfWork;
 
-		public HomeController(ILogger<HomeController> logger)
+		public HomeController(ILogger<HomeController> logger, IUnitOfWork unitOfWork)
 		{
 			_logger = logger;
+			_unitOfWork = unitOfWork;
 		}
 
 		public IActionResult Index()
@@ -28,6 +31,11 @@ namespace BulkyBook.Areas.Customer.Controllers
 		public IActionResult Privacy()
 		{
 			return View();
+		}
+		public IActionResult FutureIndex()
+		{
+			IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties:"Category,CoverType");
+			return View(productList);
 		}
 
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
