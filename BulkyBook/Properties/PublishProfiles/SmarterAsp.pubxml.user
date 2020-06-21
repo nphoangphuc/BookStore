@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Desktop\BulkyBook</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUvdOVpzBQ0e7mTya/LUfEQAAAAACAAAAAAAQZgAAAAEAACAAAAB8kP4xfqgP0r17kx9bFs5va8469sx5es+i4KrgF0QEQQAAAAAOgAAAAAIAACAAAABKEfrnz+F2QCaNQj5BbCggaOzpsHZ680+rpzNLbxldliAAAABKhPVDqzZKAh22xyyULfDiHjTgdjxcnimffW0ISOsIfUAAAAAtRcb4XQHTTwXCyEGj8AGDJ9ZjKxgerMzSsWhIQlIHbVScKwK4wYY+OqXFmQUEw/RF9S40LcAHSiOMEm8PRj6p</EncryptedPassword>
+  </PropertyGroup>
+</Project>

@@ -473,8 +473,12 @@ C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\BulkyB
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\BulkyBook.dll
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\BulkyBook.pdb
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\BulkyBook.genruntimeconfig.cache
-C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
-C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
-C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
-C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
-C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Customer\Views\Home\FutureIndex.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
