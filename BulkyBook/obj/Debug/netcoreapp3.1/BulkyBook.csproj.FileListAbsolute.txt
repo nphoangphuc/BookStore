@@ -483,3 +483,5 @@ C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Ar
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\FutureIndex.cshtml.g.cs
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\AboutMe.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Company\Index.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Company\Upsert.cshtml.g.cs

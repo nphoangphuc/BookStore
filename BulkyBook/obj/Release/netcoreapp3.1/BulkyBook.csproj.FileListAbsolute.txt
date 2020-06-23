@@ -482,3 +482,4 @@ C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Customer\Views\Home\FutureIndex.cshtml.g.cs
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
 C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+C:\Users\ADMIN\source\repos\BulkyBook\BulkyBook\obj\Release\netcoreapp3.1\Razor\Areas\Customer\Views\Home\AboutMe.cshtml.g.cs

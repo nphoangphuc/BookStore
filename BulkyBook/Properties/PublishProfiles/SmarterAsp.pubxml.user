@@ -9,4 +9,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <_PublishTargetUrl>E:\Desktop\BulkyBook</_PublishTargetUrl>
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUvdOVpzBQ0e7mTya/LUfEQAAAAACAAAAAAAQZgAAAAEAACAAAAB8kP4xfqgP0r17kx9bFs5va8469sx5es+i4KrgF0QEQQAAAAAOgAAAAAIAACAAAABKEfrnz+F2QCaNQj5BbCggaOzpsHZ680+rpzNLbxldliAAAABKhPVDqzZKAh22xyyULfDiHjTgdjxcnimffW0ISOsIfUAAAAAtRcb4XQHTTwXCyEGj8AGDJ9ZjKxgerMzSsWhIQlIHbVScKwK4wYY+OqXFmQUEw/RF9S40LcAHSiOMEm8PRj6p</EncryptedPassword>
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL5053.site4now.net%3bInitial Catalog=DB_A63548_kanehiro%3bUser Id=DB_A63548_kanehiro_admin%3bPassword=a147852147852%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>
