@@ -35,8 +35,9 @@ namespace BulkyBook
 			services.AddDbContext<ApplicationDbContext>(options =>
 				options.UseSqlServer(
 					Configuration.GetConnectionString("DefaultConnection")));
-			services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+			services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders()
 				.AddEntityFrameworkStores<ApplicationDbContext>();
+			services.AddSingleton<IEmailSender, EmailSender>();
 			services.AddScoped<IUnitOfWork, UnitOfWork>();
 			services.AddControllersWithViews().AddRazorRuntimeCompilation();
 			services.AddRazorPages();
