@@ -13,21 +13,9 @@ function loadDataTable() {
             { "data": "streetAddress", "width": "15%" },
             { "data": "city", "width": "15%" },
             { "data": "state", "width": "15%" },
+            { "data": "postalCode", "width": "15%" },
             { "data": "phoneNumber", "width": "15%" },
-            {
-                "data": "isAuthorizedCompany",
-                "render": function (data) {
-                    if (data)
-                    {
-                        return '<input type="checkbox" disabled checked/>'
-                    }
-                    else
-                    {
-                        return '<input type="checkbox" disabled/>'
-                    }
-                },
-                "width": "10%"
-            },
+            { "data": "isAuthorizedCompany", "width": "15%" },
             {
                 "data": "id",
                 "render": function (data) {

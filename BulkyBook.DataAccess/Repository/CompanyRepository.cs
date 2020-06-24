@@ -23,10 +23,10 @@ namespace BulkyBook.DataAccess.Repository
 			{
 				objFromDb.Name = company.Name;
 				objFromDb.StreetAddress = company.StreetAddress;
-				objFromDb.City = company.Name;
-				objFromDb.State = company.Name;
-				objFromDb.PostalCode = company.Name;
-				objFromDb.PhoneNumber = company.Name;
+				objFromDb.City = company.City;
+				objFromDb.State = company.State;
+				objFromDb.PostalCode = company.PostalCode;
+				objFromDb.PhoneNumber = company.PhoneNumber;
 				objFromDb.IsAuthorizedCompany = company.IsAuthorizedCompany;
 			}
 		}

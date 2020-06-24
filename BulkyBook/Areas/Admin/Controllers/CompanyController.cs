@@ -47,8 +47,7 @@ namespace BulkyBook.Areas.Admin.Controllers
             {
                 if(company.Id==0)
                 {
-                    _unitOfWork.Company.Add(company);
-                    
+                    _unitOfWork.Company.Add(company);   
                 }
                 else
                 {
