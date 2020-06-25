@@ -104,13 +104,13 @@ namespace BulkyBook.Areas.Identity.Pages.Account
 					Value = i
 				})
 			};
-			ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
+			//ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 		}
 
 		public async Task<IActionResult> OnPostAsync(string returnUrl = null)
 		{
 			returnUrl = returnUrl ?? Url.Content("~/");
-			ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
+			//ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 			if (ModelState.IsValid)
 			{
 				var user = new ApplicationUser
@@ -189,7 +189,7 @@ namespace BulkyBook.Areas.Identity.Pages.Account
 						else
 						{
 							//admin is registering a new user
-							return RedirectToAction("Index", "User", new { Area = "Admin" })
+							return RedirectToAction("Index", "User", new { Area = "Admin" });
 						}	
 					}
 				}
